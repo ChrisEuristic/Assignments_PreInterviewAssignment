@@ -32,4 +32,4 @@ while(playedGameLot < hopeGameLot){
 }
 
 console.log(customer.getTakenProductCount());
-alert("게임이 종료되었습니다.")
+alert("F12를 눌러 개발자도구의 콘솔 창에서 게임 과정과 결과를 확인해주세요.")
