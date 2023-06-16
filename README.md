@@ -1,5 +1,6 @@
 # Assignments_PreInterviewAssignment
 모 회사의 인터뷰 사전 과제입니다.
+실행 링크 : https://chriseuristic.github.io/Assignments_PreInterviewAssignment/
 
 ---
 
